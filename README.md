@@ -1,5 +1,5 @@
 # EarlySignal
-AI-Powered peer-to-peer public health surveillance
+AI-Powered peer-to-peer public health alert system
 
 A project by researchers at the University of Chicago Data Science Institute.
 
